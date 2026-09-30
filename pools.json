@@ -1,0 +1,676 @@
+{
+  "Bleach": {
+    "pool": [
+      {
+        "name": "Ichigo Kurosaki",
+        "anime": "Bleach",
+        "description": "Sarı saçlı lise öğrencisi ve Shinigami; Zanjutsu, Kido ve Hollow güçlerini harmanlayarak çeşitli dövüş teknikleri kullanır."
+      },
+      {
+        "name": "Rukia Kuchiki",
+        "anime": "Bleach",
+        "description": "Shinigami ailesinden biri, Kido ustasıdır ve özellikle buz temalı Zanpakutou'yu kullanarak dövüşür."
+      },
+      {
+        "name": "Renji Abarai",
+        "anime": "Bleach",
+        "description": "Güçlü ve azimli Shinigami; zanpakutousu Zabimaru ile uzun menzilli ve seri saldırılar yapar."
+      },
+      {
+        "name": "Byakuya Kuchiki",
+        "anime": "Bleach",
+        "description": "Kuchiki klanından asil Shinigami, Zanpakutou'su Senbonzakura ile hızlı ve estetik çiçek petali saldırıları yapar."
+      },
+      {
+        "name": "Toshiro Hitsugaya",
+        "anime": "Bleach",
+        "description": "Genç Kaptan; buz ve su temalı Zanpakutou Hyorinmaru ile hem savunma hem de saldırı odaklı dövüşür."
+      },
+      {
+        "name": "Kenpachi Zaraki",
+        "anime": "Bleach",
+        "description": "Aşırı güçlü ve kan dövmeyi seven savaşçı; dövüşte büyük güce ve dayanıklılığa güvenir, zanpakutousunu açığa çıkarmayı tercih etmez."
+      },
+      {
+        "name": "Mayuri Kurotsuchi",
+        "anime": "Bleach",
+        "description": "Bilim delisi Kaptan; kimyasal ve biyoteknolojik yöntemlerle dövüşür, zanpakutousu bilimsel bir bıçak gibidir."
+      },
+      {
+        "name": "Yoruichi Shihouin",
+        "anime": "Bleach",
+        "description": "Hız ustası eski kaptan; eldivensiz Shunpo ve el dövüşü tekniklerinde uzmandır, gizlilik ve çeviklik odaklıdır."
+      },
+      {
+        "name": "Uryu Ishida",
+        "anime": "Bleach",
+        "description": "Quincy savaşçısı; ruh enerjisi ile yaydan çıkan etkili ve keskin saldırılar yapar."
+      },
+      {
+        "name": "Soi Fon",
+        "anime": "Bleach",
+        "description": "Ölüm Tanrısı Koruma Birimi başkanı; hızlı kısa süresiyle düşmanlarını hızla yıpratır ve gizlilik odaklı dövüşür."
+      },
+      {
+        "name": "Shunsui Kyoraku",
+        "anime": "Bleach",
+        "description": "Usta Kaptan; çift kılıç kullanır ve gölge ile illüzyon bazlı güçlü Zanpakutou teknikleri vardır."
+      },
+      {
+        "name": "Kisuke Urahara",
+        "anime": "Bleach",
+        "description": "Dahiyane eski kaptan; zekâsıyla stratejik dövüşür, Zanpakutou'su ve icatları savaşta büyük rol oynar."
+      },
+      {
+        "name": "Hachigen Ushoda",
+        "anime": "Bleach",
+        "description": "Kido ustası eski kaptan; güçlü engelleyici ve saldırı Kido büyüleri kullanır ve dövüşte dayanıklıdır."
+      },
+      {
+        "name": "Gin Ichimaru",
+        "anime": "Bleach",
+        "description": "Sinsi ve hızlı; Zanpakutou'su ile keskin ve uzun menzilli saldırılar yapar, hızlı reflekslere sahiptir."
+      },
+      {
+        "name": "Kaname Tosen",
+        "anime": "Bleach",
+        "description": "Karanlık görme yeteneğine sahip; adalet odaklı dövüşür, Zanpakutou'su ile sessiz ve sinsi saldırılar yapar."
+      },
+      {
+        "name": "Grimmjow Jaegerjaquez",
+        "anime": "Bleach",
+        "description": "Espada sınıfı güçlü Arrancar; doğaüstü güçleri ve hızlı fiziksel saldırıları vardır."
+      },
+      {
+        "name": "Ulquiorra Cifer",
+        "anime": "Bleach",
+        "description": "Espada sınıfı; soğuk ve analitik dövüşür, enerji patlamaları ve hızlı uçuş yetenekleri kullanır."
+      },
+      {
+        "name": "Nnoitra Gilga",
+        "anime": "Bleach",
+        "description": "Espada; yüksek dayanıklılık ve güçlü fiziksel saldırılarla dövüşür, zanpakutou'su devasa scythe'ye dönüşür."
+      },
+      {
+        "name": "Tier Harribel",
+        "anime": "Bleach",
+        "description": "Espada; su temelli saldırılar ve güçlü kalkanlarla savunma odaklı dövüşür."
+      },
+      {
+        "name": "Shuhei Hisagi",
+        "anime": "Bleach",
+        "description": "Güçlü Shinigami; Zanpakutou'sunun Bankai formunda yüksek hız ve yıkıcı güç kullanır."
+      },
+      {
+        "name": "Rangiku Matsumoto",
+        "anime": "Bleach",
+        "description": "Hızlı ve cesur; Zanpakutou'su ile ateş temalı saldırılar yapar ve kavgada çeviktir."
+      },
+      {
+        "name": "Kensei Muguruma",
+        "anime": "Bleach",
+        "description": "Eski kaptan; büyük silahları kullanarak uzun menzilli ve sert saldırılar yapar."
+      },
+      {
+        "name": "Lisa Yadomaru",
+        "anime": "Bleach",
+        "description": "Hızlı ve keskin; Zanpakutou'su ile sessiz ve hızlı saldırılar gerçekleştirir."
+      },
+      {
+        "name": "Mashiro Kuna",
+        "anime": "Bleach",
+        "description": "Repartidor olarak görev yapar; zanpakutou'su ile hızlı tel saldırıları yapar."
+      },
+      {
+        "name": "Chad (Yasutora Sado)",
+        "anime": "Bleach",
+        "description": "Fiziksel gücü yüksek; vücut zırhı ve güçlü yumruk teknikleriyle dövüşür."
+      },
+      {
+        "name": "Orihime Inoue",
+        "anime": "Bleach",
+        "description": "İyileştirme ve savunma yetenekleri öne çıkar; dövüşte destek ve engelleme teknikleri kullanır."
+      },
+      {
+        "name": "Halibel Tier",
+        "anime": "Bleach",
+        "description": "Espada; su temalı saldırıları ve güçlü savunma yetenekleriyle dikkat çeker."
+      },
+      {
+        "name": "Jushiro Ukitake",
+        "anime": "Bleach",
+        "description": "Eski kaptan; kılıç ve Kido kullanarak dengeli ve stratejik dövüşür."
+      },
+      {
+        "name": "Ichimaru Gin",
+        "anime": "Bleach",
+        "description": "Hızlı ve sinsi; Zanpakutou'su ile keskin ve ölümcül saldırılar yapar."
+      },
+      {
+        "name": "Yumichika Ayasegawa",
+        "anime": "Bleach",
+        "description": "Estetik ve hızlı; Zanpakutou'sunun görsel yanıltmalarla dövüşür."
+      },
+      {
+        "name": "Sajin Komamura",
+        "anime": "Bleach",
+        "description": "Hayvan başı şeklinde büyük boyutlu bir Shinigami, devasa kılıcı ve güçlü Bankai'si ile dövüşür."
+      },
+      {
+        "name": "Retsu Unohana",
+        "anime": "Bleach",
+        "description": "Kendisi aynı zamanda eski Kenpachi, uzman iyileştirme teknikleri ve ölümcül dövüş yetenekleri var."
+      },
+      {
+        "name": "Shūkurō Tsukishima",
+        "anime": "Bleach",
+        "description": "Zanpakuto'su ile gerçeklikteki olayları manipüle edebilen gizemli bir Arrancar."
+      },
+      {
+        "name": "Nemu Kurotsuchi",
+        "anime": "Bleach",
+        "description": "Mayuri Kurotsuchi'nin yapay kızı ve yardımcı savaşçı, teknoloji destekli saldırılar yapar."
+      },
+      {
+        "name": "Ikkaku Madarame",
+        "anime": "Bleach",
+        "description": "Enerjik savaşçı, kılıcını yırtıcı saldırılar için kullanır; güçlü ve azimli bir dövüşçü."
+      },
+      {
+        "name": "Hiyori Sarugaki",
+        "anime": "Bleach",
+        "description": "Vizard dövüşçüsü, agresif ve hızlı, Hollow güçleriyle etkili savaşır."
+      },
+      {
+        "name": "Tessai Tsukabishi",
+        "anime": "Bleach",
+        "description": "Urahara'nın asistanı, güçlü el büyüleri ve dövüş yetenekleri ile destek verir."
+      },
+      {
+        "name": "Kaien Shiba",
+        "anime": "Bleach",
+        "description": "Eski 13. Bölük lideri, su bazlı Zanpakuto kullanır ve saygın bir savaşçıdır."
+      },
+      {
+        "name": "Chōjirō Sasakibe",
+        "anime": "Bleach",
+        "description": "Shunsui Kyoraku'nun yardımcısı, sadık ve deneyimli bir kılıç ustasıdır."
+      },
+      {
+        "name": "Shinji Hirako",
+        "anime": "Bleach",
+        "description": "İsyancı Vizard lideri, hem Hollow hem Shinigami güçlerini ustalıkla kullanır."
+      },
+      {
+        "name": "Kūkaku Shiba",
+        "anime": "Bleach",
+        "description": "Patlayıcı ve ateş temalı savaş yeteneklerine sahip cesur bir karakter."
+      },
+      {
+        "name": "Isane Kotetsu",
+        "anime": "Bleach",
+        "description": "13. Bölük üyesi ve hemşire, savaşta destek ve savunma teknikleriyle görev alır."
+      },
+      {
+        "name": "Ggio Vega",
+        "anime": "Bleach",
+        "description": "Arrancar, büyük boyutlu kılıcı ve yüksek dayanıklılığı ile tanınır."
+      },
+      {
+        "name": "Cirucci Sanderwicci",
+        "anime": "Bleach",
+        "description": "Hız ve çeviklikte usta Arrancar, zikzaklı dövüş teknikleri kullanır."
+      },
+      {
+        "name": "Rojuro Otoribashi",
+        "anime": "Bleach",
+        "description": "Renkli saçları ile tanınan, zarif ve etkili bir Shinigami savaşçısı."
+      },
+      {
+        "name": "Nelliel Tu Odelschwanck",
+        "anime": "Bleach",
+        "description": "Eski Espada, güçlü dönüşüm yeteneği ve kılıç kullanımı vardır."
+      },
+      {
+        "name": "Shūhei Hisagi",
+        "anime": "Bleach",
+        "description": "Nice, disiplinli ve güçlü Zanpakuto teknikleriyle dövüşür."
+      },
+      {
+        "name": "Kiyone Kotetsu",
+        "anime": "Bleach",
+        "description": "Shinigami, özel silahlarıyla destek ve saldırı yapar."
+      },
+      {
+        "name": "Ririn",
+        "anime": "Bleach",
+        "description": "Küçük ama hızlı bir Arrancar, çevik hareketlerle savaşır."
+      },
+      {
+        "name": "Old Man Zangetsu",
+        "anime": "Bleach (Manga and Anime Adapted Arcs)",
+        "description": "Ichigo'nun içsel güçlerinin gerçek ve gizemli formu, aşırı güçlü ve seride şaşırtıcı bir figürdür.",
+        "twist": "OP"
+      },
+      {
+        "name": "Ichigo Kurosaki (Full Hollow Form)",
+        "anime": "Bleach (Final Arcs)",
+        "description": "Ichigo'nun aşırı güçlü Hollow dönüşümü, serinin dengeyi bozacak kadar güçlü bir hali.",
+        "twist": "OP"
+      },
+      {
+        "name": "Hiyori Sarugaki (Klasik Shinigami Dönemi)",
+        "anime": "Bleach (Klasik Shinigami Dönemi)",
+        "description": "Daha erken dönem Hiyori, biraz daha güçsüz ve acemi olduğu için şaşırtıcı şekilde zayıftır.",
+        "twist": "Leş"
+      },
+      {
+        "name": "Chad (Fullbring Form)",
+        "anime": "Bleach (Fullbring Arc)",
+        "description": "Chad'in tam Fullbring formu, düşük etkileşimli ve dövüşte nispeten zayıf kalışı şaşırtıcıdır.",
+        "twist": "Leş"
+      },
+      {
+        "name": "Rukia Kuchiki (Klasik vs Anime)",
+        "anime": "Bleach (Klasik ve Anime Arası Fark)",
+        "description": "Manga versiyonundaki daha zayıf Rukia'ya karşın anime ek sahnelerinde dövüş yetenekleri yükseltilmiştir.",
+        "twist": "Farklı dönem"
+      },
+      {
+        "name": "Ashido Kanō",
+        "anime": "Bleach",
+        "description": "Bazı fanlar tarafından sevilmeyen, sinir bozucu ve zayıf alt karakterlerden biri.",
+        "twist": "Nefret edilen"
+      },
+      {
+        "name": "Fake Karakura Town Isshin Kurosaki",
+        "anime": "Bleach (Final Arc)",
+        "description": "Ichigo'nun babasının alternatif güç hali, beklenmedik ve güçlü ama karakter olarak tartışmalı.",
+        "twist": "OP"
+      }
+    ],
+    "used": [
+      "chōjirō sasakibe",
+      "kisuke urahara",
+      "kūkaku shiba",
+      "nnoitra gilga",
+      "old man zangetsu",
+      "shunsui kyoraku",
+      "shūkurō tsukishima",
+      "toshiro hitsugaya",
+      "ulquiorra cifer",
+      "yoruichi shihouin"
+    ]
+  },
+  "Hunter x Hunter": [
+    {
+      "name": "Gon Freecss",
+      "anime": "Hunter x Hunter",
+      "description": "Yüksek fiziksel güç ve çevikliğe sahip doğal yetenekli bir dövüşçü; Nen yeteneği olarak Jajanken adlı enerji temelli saldırıyı kullanır."
+    },
+    {
+      "name": "Killua Zoldyck",
+      "anime": "Hunter x Hunter",
+      "description": "Zoldyck suikastçılar ailesinden gelen hızlı ve çevik bir dövüşçü; elektrik tabanlı Nen teknikleri kullanarak düşmanlarını sersemletir ve etkisiz hale getirir."
+    },
+    {
+      "name": "Kurapika",
+      "anime": "Hunter x Hunter",
+      "description": "Zincirler kullanan Nen yeteneklerine sahip; özellikle Klanına karşı mücadelede zincir tabanlı saldırı ve savunma teknikleri uygular."
+    },
+    {
+      "name": "Leorio Paradinight",
+      "anime": "Hunter x Hunter",
+      "description": "Temel dövüş yeteneği sınırlı olsa da Nen gücünü şifa ve direkt saldırılar için kullanabilen hevesli bir dövüşçü."
+    },
+    {
+      "name": "Hisoka Morow",
+      "anime": "Hunter x Hunter",
+      "description": "Gizemli ve güçlü bir dövüşçü; Nen gücü Bungee Gum ile düşmanlarının hareketlerini kontrol eder ve şaşırtıcı saldırılar yapar."
+    },
+    {
+      "name": "Chrollo Lucilfer",
+      "anime": "Hunter x Hunter",
+      "description": "Genei Ryodan çetesinin lideri; Nen yeteneği Skill Hunter ile başkalarının yeteneklerini çalabilir ve kullanabilir."
+    },
+    {
+      "name": "Feitan Portor",
+      "anime": "Hunter x Hunter",
+      "description": "Hızlı ve ölümcül dövüş stiline sahip Genei Ryodan üyesi; Nen saldırısı Torture Chain ile rakiplerine büyük acı verir."
+    },
+    {
+      "name": "Phinks Magcub",
+      "anime": "Hunter x Hunter",
+      "description": "Güçlü fiziksel saldırılar yapan Genei Ryodan üyesi; Nen gücü Super Strength ile yumruk darbelerini artırır."
+    },
+    {
+      "name": "Shalnark",
+      "anime": "Hunter x Hunter",
+      "description": "Genei Ryodan üyesi; Nen gücü Black Voice ile düşmanlarını uzaktan kontrol edebilir."
+    },
+    {
+      "name": "Machi Komacine",
+      "anime": "Hunter x Hunter",
+      "description": "Genei Ryodan'ın keskin nişancısı; Kordonlarla düşmanlarını hızlı ve sessizce etkisiz hale getirir."
+    },
+    {
+      "name": "Nobunaga Hazama",
+      "anime": "Hunter x Hunter",
+      "description": "Kılıç ustası Genei Ryodan üyesi; hızlı ve keskin kılıç darbeleriyle etkili savaşır."
+    },
+    {
+      "name": "Uvogin",
+      "anime": "Hunter x Hunter",
+      "description": "Geniş fiziksel gücü ve dayanıklılığı ile bilinir; Nen gücüyle fiziksel saldırılarında aşırı güç uygular."
+    },
+    {
+      "name": "Kite",
+      "anime": "Hunter x Hunter",
+      "description": "Gelişmiş Nen yeteneklerine sahip avcı; özellikle Crazy Slots adlı Nen silahı ile çok yönlü saldırılar yapar."
+    },
+    {
+      "name": "Meruem",
+      "anime": "Hunter x Hunter",
+      "description": "Yarı insan, yarı karınca kralı; olağanüstü fiziksel güç ve zekaya sahip olup Nen gücünü üstün seviyede kullanır."
+    },
+    {
+      "name": "Netero",
+      "anime": "Hunter x Hunter",
+      "description": "Eski Hunter Derneği başkanı; inanılmaz hız ve güçte Nen teknikleri olan 100 Yıl Yumruğu'nu kullanır."
+    },
+    {
+      "name": "Knuckle Bine",
+      "anime": "Hunter x Hunter",
+      "description": "Geniş alanı etkileyen Nen saldırıları ve güçlü fiziksel üstünlüğü ile düşmanlarını yorar ve zayıflatır."
+    },
+    {
+      "name": "Shoot McMahon",
+      "anime": "Hunter x Hunter",
+      "description": "Uzak mesafe saldırılarında uzman; Nen gücü Yo-Yo'ları ile düşmanlarını engeller ve etkisiz hale getirir."
+    },
+    {
+      "name": "Palm Siberia",
+      "anime": "Hunter x Hunter",
+      "description": "Güçlü ve kontrol dışı Nen yeteneği ile tehlikeli bir savaşçı; yüksek dayanıklılığı ve saldırıları vardır."
+    },
+    {
+      "name": "Ikalgo",
+      "anime": "Hunter x Hunter",
+      "description": "Mürekkep balığı benzeri yaratık; Nen ile yaratıcı ve hızlı saldırılar yapabilir."
+    },
+    {
+      "name": "Biscuit Krueger",
+      "anime": "Hunter x Hunter",
+      "description": "Gelişmiş Nen ustası ve eğitmen; gerçek formunda güçlü fiziksel saldırılar yapar."
+    },
+    {
+      "name": "Zeno Zoldyck",
+      "anime": "Hunter x Hunter",
+      "description": "Zoldyck ailesinin deneyimli suikastçısı; yüksek seviyede Nen teknikleri ve dövüş uzmanlığı vardır."
+    },
+    {
+      "name": "Silva Zoldyck",
+      "anime": "Hunter x Hunter",
+      "description": "Zoldyck ailesinin lideri; ciddi dövüş yetenekleri ve güçlü Nen kullanımı ile dikkat çeker."
+    },
+    {
+      "name": "Shoot",
+      "anime": "Hunter x Hunter",
+      "description": "Uzak mesafe savaşçısı, Nen ile Yo-Yo silahları kullanarak etkili saldırılar yapar."
+    },
+    {
+      "name": "Knov",
+      "anime": "Hunter x Hunter",
+      "description": "Zekası yüksek ve stratejik Nen kullanıcısı; boşluk oluşturma yeteneği sayesinde savaş alanında avantaj sağlar."
+    },
+    {
+      "name": "Hanzo",
+      "anime": "Hunter x Hunter",
+      "description": "Usta ninjaman dövüşçü; yüksek hız ve çeviklikle kısa menzilli saldırılar yapar."
+    },
+    {
+      "name": "Shizuku Murasaki",
+      "anime": "Hunter x Hunter",
+      "description": "Genei Ryodan üyesi; Nen gücü Blinky adlı vakum kullanarak düşmanları ve engelleri ortadan kaldırır."
+    },
+    {
+      "name": "Bonolenov Ndongo",
+      "anime": "Hunter x Hunter",
+      "description": "Genei Ryodan üyesi; Nen ile müzik tabanlı saldırılar yapar ve oldukça dayanıklıdır."
+    },
+    {
+      "name": "Colt",
+      "anime": "Hunter x Hunter",
+      "description": "Ant Queen ordusunun bir üyesi; güçlü Nen teknikleri ve yüksek dövüş yeteneği vardır."
+    },
+    {
+      "name": "Genthru",
+      "anime": "Hunter x Hunter",
+      "description": "Nen bombaları kullanarak düşmanlarına büyük zarar veren acımasız bir savaşçı."
+    },
+    {
+      "name": "Menthuthuyoupi",
+      "anime": "Hunter x Hunter",
+      "description": "Krallığın bir muhafızı; güçlü fiziksel yetenekler ve agresif dövüş tarzı ile savaşa katılır."
+    }
+  ],
+  "One Punch Man": {
+    "pool": [
+      {
+        "name": "Saitama",
+        "anime": "One Punch Man",
+        "description": "En güçlü kahraman, tek yumrukla düşmanlarını yenebilen sıradışı güçlere sahip."
+      },
+      {
+        "name": "Genos",
+        "anime": "One Punch Man",
+        "description": "Gelişmiş sibernetik vücuda sahip genç kahraman, güçlü enerji saldırıları ve hızıyla dövüşür."
+      },
+      {
+        "name": "Speed-o'-Sound Sonic",
+        "anime": "One Punch Man",
+        "description": "Üstün hız ve ninja teknikleriyle Saitama'nın rakibi, çevik ve ölümcül bir dövüşçü."
+      },
+      {
+        "name": "Mumen Rider",
+        "anime": "One Punch Man",
+        "description": "Adalet duygusuyla savaşan sıradan bir kahraman, bisiklet kullanımı ve cesaretiyle tanınır."
+      },
+      {
+        "name": "Tatsumaki",
+        "anime": "One Punch Man",
+        "description": "Psikokinetik güçleriyle düşmanları havaya uçuran güçlü bir kahraman."
+      },
+      {
+        "name": "Bang (Silver Fang)",
+        "anime": "One Punch Man",
+        "description": "Usta bir dövüş sanatçısı, güçlü dövüş teknikleri ve tecrübesiyle tanınır."
+      },
+      {
+        "name": "Fubuki",
+        "anime": "One Punch Man",
+        "description": "Psikokinetik yeteneklere sahip, Fubuki Kliniği lideri ve güçlü bir kahraman."
+      },
+      {
+        "name": "Atomic Samurai",
+        "anime": "One Punch Man",
+        "description": "Usta kılıç ustası, düşmanlarını hızlı ve keskin saldırılarla alt eder."
+      },
+      {
+        "name": "Tornado of Terror",
+        "anime": "One Punch Man",
+        "description": "Tatsumaki'nin diğer adı, telekinetik yetenekleriyle düşmanları kontrol eder."
+      },
+      {
+        "name": "King",
+        "anime": "One Punch Man",
+        "description": "Dünyanın en güçlü kahramanı olarak tanınır; dövüştüğü sahnelerde etkileyicidir ama gerçekte dövüş yeteneği bilinmez."
+      },
+      {
+        "name": "Garou",
+        "anime": "One Punch Man",
+        "description": "Eski kahraman avcısı, karmaşık dövüş stili ve gelişen güçleriyle dikkat çeker."
+      },
+      {
+        "name": "Puri-Puri Prisoner",
+        "anime": "One Punch Man",
+        "description": "Ağır toplu kahraman, güçlü vuruşları ve dayanıklılığı ile savaşır."
+      },
+      {
+        "name": "Mosquito Girl",
+        "anime": "One Punch Man",
+        "description": "Sivrisinek türü mutant, küçük ve hızlı ama tehlikeli bir dövüşçü."
+      },
+      {
+        "name": "Dr. Genus",
+        "anime": "One Punch Man",
+        "description": "Canavar yaratıcı ve stratejist, kendi yaratıklarıyla dövüş sahneleri vardır."
+      },
+      {
+        "name": "Vaccineman",
+        "anime": "One Punch Man",
+        "description": "Güçlü mutant kahraman, kimyasal saldırılar ve dayanıklılığı ile bilinir."
+      },
+      {
+        "name": "Kombu Infinity",
+        "anime": "One Punch Man",
+        "description": "Deniz yosunu temalı bir canavar, dövüş sahneleriyle tanınır."
+      },
+      {
+        "name": "Deep Sea King",
+        "anime": "One Punch Man",
+        "description": "Su temalı güçlü canavar, su bazlı saldırılar yapar."
+      },
+      {
+        "name": "Gouketsu",
+        "anime": "One Punch Man",
+        "description": "Canavar turnuvasının güçlü dövüşçüsü, muazzam gücüyle dikkat çeker."
+      },
+      {
+        "name": "Awakened Cockroach",
+        "anime": "One Punch Man",
+        "description": "Son derece dayanıklı ve hızlı canavar, dövüş sahneleri vardır."
+      },
+      {
+        "name": "Evil Natural Water",
+        "anime": "One Punch Man",
+        "description": "Su temalı canavar, güçlü su saldırıları yapar."
+      },
+      {
+        "name": "Bushidrill",
+        "anime": "One Punch Man",
+        "description": "Canavarlar arasında yüksek dövüş gücüne sahip, kılıç benzeri uzvunla dövüşür."
+      },
+      {
+        "name": "Hellfire Flame",
+        "anime": "One Punch Man",
+        "description": "Ateş elementini kullanan canavar, yıkıcı alev saldırıları yapar."
+      },
+      {
+        "name": "Tank Top Master",
+        "anime": "One Punch Man",
+        "description": "Dayanıklı ve güçlü kas yapısıyla dövüşen kahraman."
+      },
+      {
+        "name": "Lightning Max",
+        "anime": "One Punch Man",
+        "description": "Yüksek hızlı dövüşçü, yıldırım hızında saldırılar yapar."
+      },
+      {
+        "name": "Spring Mustachio",
+        "anime": "One Punch Man",
+        "description": "Yüksek dövüş becerisine sahip kahraman, çevik ve güçlüdür."
+      },
+      {
+        "name": "Snakebite Snek",
+        "anime": "One Punch Man",
+        "description": "Yılan temalı kahraman, hız ve zehirli saldırılar kullanır."
+      },
+      {
+        "name": "Meteor Level Hero Bat",
+        "anime": "One Punch Man",
+        "description": "Ayı temalı kahraman, güçlü ve dayanıklıdır."
+      },
+      {
+        "name": "Beast King",
+        "anime": "One Punch Man",
+        "description": "Canavar turnuvasında yer alan güçlü dövüşçü, hayvan benzeri güçlere sahiptir."
+      },
+      {
+        "name": "Black Sperm",
+        "anime": "One Punch Man",
+        "description": "Canavar organizma, çoklu kopyalar oluşturabilen dayanıklı dövüşçü."
+      },
+      {
+        "name": "Overgrown Rover",
+        "anime": "One Punch Man",
+        "description": "Yüksek hacimli canavar, güçlü fiziksel saldırılar yapar."
+      },
+      {
+        "name": "Fuhrer Ugly",
+        "anime": "One Punch Man",
+        "description": "Canavarlar arasında üst düzey güçlere sahip, yüksek dayanıklılıkla dövüşür."
+      },
+      {
+        "name": "Evil Natural Water (Farklı dönem)",
+        "anime": "One Punch Man (manga özel)",
+        "description": "Manganın ilerleyen bölümlerinde çok daha gelişmiş ve güçlü olarak dövüş sahneleri var, animedekinden çok farklı.",
+        "twist": "Farklı dönem"
+      },
+      {
+        "name": "Garou (OP)",
+        "anime": "One Punch Man",
+        "description": "Son dönemde güçleri katlanarak artan, neredeyse Saitama ile yarışan düzeyde bir kahraman avcısı.",
+        "twist": "OP"
+      },
+      {
+        "name": "King (Leş)",
+        "anime": "One Punch Man",
+        "description": "Dövüş sahneleri var ama gerçekte hiç savaşmayan ve güçsüz olduğu ortaya çıkan karakter.",
+        "twist": "Leş"
+      },
+      {
+        "name": "Saitama (Leş - Komedi amaçlı)",
+        "anime": "One Punch Man",
+        "description": "Savaşlarda tek yumrukla bitiren ama dövüş mekanikleri açısından tekdüze ve mizahi bir figür.",
+        "twist": "Leş"
+      },
+      {
+        "name": "Fubuki (Nefret edilen)",
+        "anime": "One Punch Man",
+        "description": "Bazı hayranlar tarafından itici bulunan, gereksiz çaba sarf eden yan karakter.",
+        "twist": "Nefret edilen"
+      },
+      {
+        "name": "Speed-o'-Sound Sonic (Nefret edilen)",
+        "anime": "One Punch Man",
+        "description": "Sürekli Saitama'ya rakip olmaya çalışan ama başarılı olamayan ve hayranların sevmeyen bir karakter.",
+        "twist": "Nefret edilen"
+      },
+      {
+        "name": "Awakened Cockroach (OP)",
+        "anime": "One Punch Man",
+        "description": "Son derece dayanıklı ve hızlı, neredeyse yenilmez denilen canavar.",
+        "twist": "OP"
+      },
+      {
+        "name": "Bang (Silver Fang) (Farklı dönem)",
+        "anime": "One Punch Man (flashback sahneleri)",
+        "description": "Geçmişte genç haliyle gösterilen, o dönemlerin güçlü dövüşçüsü olarak farklı dövüş sahneleri var.",
+        "twist": "Farklı dönem"
+      }
+    ],
+    "used": [
+      "awakened cockroach (op)",
+      "black sperm",
+      "deep sea king",
+      "fubuki",
+      "garou",
+      "genos",
+      "lightning max",
+      "meteor level hero bat",
+      "overgrown rover",
+      "tank top master"
+    ]
+  }
+}
